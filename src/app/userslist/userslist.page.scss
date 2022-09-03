@@ -1,0 +1,19 @@
+#title{
+  background-image: linear-gradient(to right, #00bcd4, #0071d4);
+  color: transparent;
+  -webkit-background-clip: text;
+  font-weight: bold;
+}
+.alive{
+  color: #85ff8d;
+  font-weight: bold;
+}
+.dead{
+  color: #ff8585;
+  font-weight: bold;
+
+}
+.unknow{
+  font-weight: bold;
+  color: #ffd180;
+}
